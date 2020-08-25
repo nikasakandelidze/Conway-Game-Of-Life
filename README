@@ -14,7 +14,7 @@ Rules for game:
 Fastest possible implementation of this game.
 
 There are Threads assigned to each cell, and all cell-threads produce next generation independently.
-Generations are produced lightning fast.
+Generations are produced lightning fast. // might need rechecking, maybe overusing  threads.
 
 
 
